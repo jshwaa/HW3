@@ -75,4 +75,6 @@ __Print a summary report with the following information:__
     2676 X
     113 Y
 
+### Comments
 
+Great job! No comments.
